@@ -1,6 +1,6 @@
 # PortFolio Website
 
-Repo= https://github.com/saswata35/Portfolio1.git
+Repo= https://github.com/saswata35/Portfolio_Project.git
 
 Host= https://saswata35.github.io/Portfolio_Project/
 
